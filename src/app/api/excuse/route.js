@@ -1,3 +1,5 @@
+export const runtime = "nodejs";
+
 export async function GET() {
   const excuses = [
     "My dog ate the fiber optic cable.",
