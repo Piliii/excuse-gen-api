@@ -14,7 +14,7 @@ export default function Home() {
         (Excuse CLI*)[<a href="https://ayopili.com/terminal" target="_blank" rel="noopener noreferrer">Link</a>]
       </p>
       <p style={{ fontStyle: 'italic', fontSize: '0.9rem' }}>
-        *Type "pili excuse" to fetch an excuse.
+        *Type &quot;pili excuse&quot; within the terminal to fetch an excuse.
       </p>
     </div>
   );
