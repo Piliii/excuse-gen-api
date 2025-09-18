@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Excuse Generator API",
-  description: "Generate an excuse.",
+  description: "Fetch an excuse.",
 };
 
 export default function RootLayout({ children }) {
