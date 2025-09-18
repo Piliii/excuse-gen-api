@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Excuse Generator API",
+  title: "Excuse Generator",
   description: "Fetch an excuse.",
 };
 
