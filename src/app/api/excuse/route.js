@@ -67,7 +67,7 @@ const categoryAliases = {
   rofl: "meme",
 };
 
-const MAX_REQUESTS = 10;
+const MAX_REQUESTS = 35;
 const WINDOW_MS = 60 * 1000;
 const ipMap = new Map();
 
